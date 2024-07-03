@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToaKopaka or Matthew Kalis
-- 👀 I’m interested in Anything I can learn but mainly data science
-- 🌱 I’m currently learning Computer science at Colorado State University 
+- 👀 I’m interested in Anything I can learn, currently interested in playing with Angular and learning more front end development 
+- 🌱 I’m currently working as a software engineer in the defense sector 
 
 
